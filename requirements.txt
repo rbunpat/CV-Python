@@ -1,0 +1,8 @@
+io
+sys
+requests
+json
+discord
+dotenv
+email
+logging
