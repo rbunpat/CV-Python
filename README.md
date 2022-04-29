@@ -1,3 +1,4 @@
+![status](https://github.com/rbunpat/CV-Python/blob/main/status-janktastic.svg)
 # CV-Python
 Started as a covid case checking discord bot, quickly grew into other things.
 # Features
