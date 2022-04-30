@@ -12,4 +12,4 @@ Started as a covid case checking discord bot, quickly grew into other things.
 # Note
 This bot will be useless to you, trust me.
 # Status
-It works.
+It works. Well, kinda.
