@@ -10,7 +10,7 @@ Started as a covid case checking discord bot, quickly grew into other things.
 - [x] Check if a website is up
 - [ ] Be able to select the province to check covid case
 # Usage
-Run bot.py to startup bot.
+Put your tokens and stuff in the .env file. Run bot.py to startup bot.
 # Note
 This bot will be useless to you, trust me.
 # Status
